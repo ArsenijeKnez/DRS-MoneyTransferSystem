@@ -1,0 +1,92 @@
+body {
+  background-color: #555; /* Tamno siva pozadina */
+  color: #fff; /* Bela boja teksta */
+  font-family: Arial, sans-serif; /* Font za tekst */
+  margin: 1s0; /* Uklonite defaultni margin */
+}
+
+.registration-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+  
+  
+  /* forma za login css podesavanje*/
+
+form {
+  background-color: rgba(229, 218, 239, 0.9);
+  padding: 10px;
+  border-radius: 30px;
+  width: 400px; /* Širina forme */
+}
+
+label {
+  text-align: left;
+  margin-bottom: 10px;
+  content: normal;
+}
+
+input {
+  width: 90%; /* Širina input polja */
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #4133aa; /* Boja granice input polja */
+  border-radius: 10px;
+}
+
+button {
+  background-color: blue; /* Plava boja za dugme */
+  color: #fff;
+  padding: 15px 45px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+
+}
+
+button:hover {
+  background-color: purple; /* Tamnoplava boja na hover */
+}
+
+  .container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+  }
+
+  .adminOptions{
+    display: flex;
+    background-color: rgba(144, 132, 156, 0.9);
+    padding: 10px;
+    border-radius: 30px;
+    width: 400px; /* Širina forme */
+  }
+
+  
+  #adminOptions {
+    background-color: rgba(189, 179, 179, 0.9);
+    border-radius: 10px; /* Opciono: Zaobljavanje ivica celije */
+    padding: 20px; /* Opciono: Unutarnji razmak unutar celije */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Opciono: Svetla senka */
+  }  
+    
+  
+  h2 {
+    text-align: center;
+    color:blue;    
+  }  
+
+  td {
+    vertical-align: middle;
+  }
+  
+ 
+
+
+
+
+ 
+  

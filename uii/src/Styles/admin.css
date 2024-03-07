@@ -1,0 +1,42 @@
+.admin-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .adminOptions {
+    background-color: rgba(212, 201, 201, 0.9);
+    border-radius: 10px; /* Opciono: Zaobljavanje ivica celije */
+    padding: 20px; /* Opciono: Unutarnji razmak unutar celije */
+    
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: blue; /* Boja pozadine dugmeta */
+    color: #fff; /* Boja teksta na dugmetu */
+    border-radius: 5px; /* Opciono: Zaobljavanje ivica dugmeta */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Opciono: Blaga tranzicija boje pozadine */
+  }
+  
+  button:hover {
+    background-color: purple; /* Tamnoplava boja na hover */
+  }
+
+  .verification{
+    background-color: rgba(212, 201, 201, 0.9);
+    border-radius: 10px; /* Opciono: Zaobljavanje ivica celije */
+    padding: 20px; /* Opciono: Unutarnji razmak unutar celije */    
+    caption-side:initial;
+    color: rgb(6, 195, 43);   
+   
+
+  }
+  .verification-table{    
+    width: 400px;
+    font-size: 28px;
+
+  }

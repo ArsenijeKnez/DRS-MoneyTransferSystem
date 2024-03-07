@@ -1,0 +1,39 @@
+.user-container {
+    /* Dodajte ostale stilove prema potrebi */
+    margin: auto;
+  }
+  
+  .userTable {
+    width: 100%;
+   border-color: black;
+    background-color: rgba(235, 226, 158, 0.9); /* Bela boja sa 0.8 prozirnosti */
+  }
+  
+  .userTable th, .userTable td {
+    border: 1px solid #99256b;
+    padding: 8px;
+    text-align: center;
+    color: blue;
+  }
+
+  .inputUser{    
+    width: 95%;  
+
+  }
+  .h2Us{
+    color: blue;
+    margin-top: 0px;
+    margin-bottom: 0%;
+  }
+  
+  .usernavigation {
+    /* Dodajte stilove za navigacioni deo */
+    margin: auto;
+  }
+  
+  .button-container {
+    margin-top: 10px;
+  }
+  
+  /* Dodajte dodatne stilove prema potrebi */
+  

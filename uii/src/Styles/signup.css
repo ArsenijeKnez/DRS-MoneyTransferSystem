@@ -1,0 +1,97 @@
+
+body {
+    background-color: #555; /* Tamno siva pozadina */
+    color: #fff; /* Bela boja teksta */
+    font-family: Arial, sans-serif; /* Font za tekst */
+    margin: 1s0; /* Uklonite defaultni margin */
+  }
+  .user-registration-container{
+    display: flex;    
+    background-color: rgba(162, 159, 165, 0.9);
+    width: 400px;
+    padding: 5px;
+    align-items: center; 
+
+  }
+  .liveMonitoring-container{
+    display: flex;    
+    background-color: rgba(162, 159, 165, 0.9);
+    width: 400px;
+    padding: 5px;
+    align-items: center; 
+    border-radius: 10px;
+    color: green;
+   
+
+  }
+  .monitoring-table{
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: -10px;
+    width: 400px;
+
+
+  }
+  
+  .registration-container {
+    display: flex;    
+    background-color: rgba(162, 159, 165, 0.9);
+    width: 400px;
+    padding: 5px;
+    align-items: center;
+    color: green;
+    
+  }
+  .registration-container button {
+    margin-left: 2px; /* Prilagodite vrednost prema potrebama */
+    margin-top: 10px;
+  }
+
+  
+  /* forma za login css podesavanje*/
+  form {
+    background-color: rgba(144, 132, 156, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px; /* Širina forme */
+  }
+  
+  
+  label {
+    text-align: left;
+    margin-bottom: 10px;
+    content: normal;
+  }
+  
+  input {
+    width: 90%; /* Širina input polja */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #455fe2; /* Boja granice input polja */
+    border-radius: 10px;
+  }
+  
+  caption{
+    font-size: 40px;
+    text-shadow: #555;    
+    color: blue;
+    white-space: nowrap;
+   
+
+  }
+  
+  button {
+    background-color: blue; /* Plava boja za dugme */
+    color: #fff;
+    padding: 15px 45px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+   
+  }
+  
+  button:hover {
+    background-color: purple; /* Tamnoplava boja na hover */
+  }
+  
